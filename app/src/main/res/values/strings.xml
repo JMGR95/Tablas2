@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tablas</string>
+    <string name="msgCorrect">Correcto</string>
+    <string name="msgIncorrect">Incorrecto</string>
+</resources>
